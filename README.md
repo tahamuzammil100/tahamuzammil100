@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taha Muzammil
 
-🚀 **Senior Machine Learning Engineer | Agentic AI | LLMs | MLOps**
+🚀 **Senior Machine Learning Engineer | Agentic AI | LLMs | RAG | AI Bots**
 
 I’m passionate about building intelligent systems that bridge automation and human-like reasoning — from **VoiceBots** to **Agentic AI** architectures.  
 Currently, I’m working remotely at **Hyly.AI (USA)**, designing and deploying scalable AI-driven solutions.
